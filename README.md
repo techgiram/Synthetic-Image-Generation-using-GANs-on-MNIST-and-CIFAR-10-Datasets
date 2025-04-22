@@ -1,0 +1,1 @@
+# Synthetic-Image-Generation-using-GANs-on-MNIST-and-CIFAR-10-Datasets
